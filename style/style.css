@@ -26,6 +26,8 @@ body {
     height: 525px;
     flex-basis: 1080px;
     
+    opacity: 0.7;
+    
 }
 
 .logo_and_link {
@@ -65,6 +67,7 @@ body {
     height: 250px;
     margin-top: 70px;
     padding-left: 70px;
+   
     
 }
 
@@ -84,7 +87,8 @@ body {
     backface-visibility: visible;
     background-blend-mode: hue color-burn color-dodge;
     border-radius: 8px;
-    
+    height: 300px;
+    width: 500px;
 }
 
 .suc_text {
